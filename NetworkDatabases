@@ -1,0 +1,34 @@
+Biological network databases
+Protein-protein interaction networks
+Munich Information Center for Protein Sequence (MIPS)1: http://mips.helmholtz-muenchen.de/proj/ppi/.
+Biomolecular Interaction Network Database (BIND)2: http://www.bind.ca
+Database of Interacting Proteins (DIP)3: http://dip.doe-mbi.ucla.edu/dip/
+Molecular Interaction database (MINT)4: http://mint.bio.uniroma2.it/mint
+Protein Interaction database (IntAct)5: http://www.ebi.ac.uk/intact/
+Biological General Repository for Interaction Datasets (BioGRID)6: http://thebiogrid.org/
+Human Protein Reference Database (HPRD)7: http://www.hprd.org/
+
+Metabolic networks
+Kyoto Encyclopedia of Genes and Genomes (KEGG)8: http://www.genome.jp/kegg/
+Biochemical Genetic and Genomics knowledgebase (BIGG)9: http://bigg.ucsd.edu/
+
+Regulatory networks
+Universal Protein Binding Microarray Resource for Oligonucleotide Binding Evaluation (UniPROBE)10: http://the_brain.bwh.harvard.edu/uniprobe/
+JASPAR11: http://jaspar.genereg.net/
+TRANSFAC12: http://www.gene-regulation.com/pub/databases.html
+B-cell interactome (BCI)13: http://amdec-bioinfo.cu-genome.org/html/BCellInteractome.html
+
+Post translational modifications
+Phospho.ELM14: http://phospho.elm.eu.org/
+PhosphoSite15: http://www.phosphosite.org
+Phosphorylation site database (PHOSIDA)16: http://www.phosida.com/
+
+RNA networks
+MicroRNA-gene targets
+TargetScan17: http://www.targetscan.org/
+PicTar18: http://pictar.mdc-berlin.de/
+microRNA19: http://www.microrna.org
+miRBase20: http://www.mirbase.org/
+miRDB21: http://mirdb.org
+TarBase22: http://diana.cslab.ece.ntua.gr/tarbase/
+miRecords23: http://mirecords.biolead.org/
