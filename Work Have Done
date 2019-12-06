@@ -1,1 +1,8 @@
+Search
+1. Search disease-disease and disease-symptom network related papers (Dropbox)
+2. Search disease-disease and disease-symptom network related database (GitHub)
 
+Data Process (GitHub code)
+Build disease-symptom network based on collected datasets
+Result: get 2 major disease-symptom  table, with 182,022 and 147,979 pairs
+Dilemma, one disease uses hpo as id and another has MeSH Disease Term, haven’t found a way to concatenate the two
