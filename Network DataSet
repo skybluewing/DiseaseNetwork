@@ -1,0 +1,36 @@
+https://www.nature.com/articles/s41540-019-0092-5#Sec8
+
+Human Phenotype Ontology59 provides a structured, comprehensive and well-defined set of 10,088 classes (terms) describing human phenotypic abnormalities and 13,326 subclass relations between the HPO classes. 
+
+Disease- Gene: https://omim.org/downloads/zqsleR7sTouG_t4Pm4EnFA
+Disease-Symptom: https://hpo.jax.org/app/download/ontology paper(https://academic.oup.com/nar/article/42/D1/D966/1042793)
+
+Visualization: https://exploring-data.com/info/human-disease-network/
+
+Gene-disease: GAD https://geneticassociationdb.nih.gov/
+OMIM https://www.ncbi.nlm.nih.gov/omim
+
+
+Human Phenotype Ontology project
+D-S
+Gene
+obo
+Data: https://hpo.jax.org/app/download/ontology
+Paper:
+https://academic.oup.com/nar/article/42/D1/D966/1042793 
+
+
+Human disease-symptom NetWork
+D-S
+TF-IDF
+txt
+Paper with data: https://www.dropbox.com/preview/Symptom%20network/Human%20symptoms-disease%20network/Human%20symptoms%E2%80%93disease%20network.pdf?role=personal
+
+
+Analysis of the human symptoms–disease network
+D-S
+TF-IDF
+tsv
+Data:https://github.com/dhimmel/hsdn/blob/gh-pages/data/symptoms-DO.tsv
+
+
